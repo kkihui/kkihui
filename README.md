@@ -1,4 +1,6 @@
-### Hi there 👋
+### ⚙ Yonsei ME🎰 ⚙ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogns1118)](https://solved.ac/cogns1118/)
+
 
 <!--
 **kkihui/kkihui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
