@@ -1,4 +1,4 @@
-### ⚙ Yonsei ME7 ⚙ 
+# ⚙ Yonsei ME7 ⚙ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogns1118)](https://solved.ac/cogns1118/)
 
 
