@@ -44,6 +44,12 @@
   <img src="https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=LINUX&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=UBUNTU&logoColor=white" />&nbsp
+</div>
+
+
 <br>
 
 <h3 align="center">📫 contact 📪</h3>
