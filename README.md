@@ -20,8 +20,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GUNICORN-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=LINUX&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=UBUNTU&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -44,12 +51,6 @@
   <img src="https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=LINUX&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=UBUNTU&logoColor=white" />&nbsp
-</div>
-
-
 <br>
 
 <h3 align="center">📫 contact 📪</h3>
@@ -66,15 +67,4 @@
 <!--
 **kkihui/kkihui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Static Badge](https://img.shields.io/badge/kihun1118%40lgcns.com-passing?style=plastic&logo=lg&logoColor=%23A50034&labelColor=FFFFFF&color=FFFFFF)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
