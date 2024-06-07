@@ -22,13 +22,15 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GUNICORN-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=%23232F3E" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=LINUX&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/UBUNTU-E95420.svg?style=for-the-badge&logo=UBUNTU&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=white&color=%2300878F" />&nbsp
+  <img src="https://img.shields.io/badge/Raspberrypi-white?style=for-the-badge&logo=raspberrypi&logoColor=white&color=%23A22846" />&nbsp
 </div>
 
 <div align="center">
@@ -44,11 +46,13 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Creo-white?style=for-the-badge&color=%2368bf4b" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PhotoShop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PremierPro-white?style=for-the-badge&logo=adobepremierepro&logoColor=white&color=%239999FF" />&nbsp
 </div>
 
 <br>
