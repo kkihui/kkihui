@@ -36,6 +36,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MATLAB-FF9A00.svg?style=for-the-badge" />&nbsp
 </div>
 
