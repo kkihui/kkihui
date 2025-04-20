@@ -58,6 +58,22 @@
 
 <br>
 
+<h3 align="center">⚡ Careers ⚡</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/LG%20CNS%20(24.01.02%20~%2024.02.23)-lg?style=social&logo=lg" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/POSCO%20(24.07.22%20~%2024.08.21)-P?style=social&label=p" />&nbsp
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Samsung%20Electronics%20(25.01.20%20~%20ing)-samsung?style=social&logo=samsung" />&nbsp
+</div>
+
+<br>
+
 <h3 align="center">📫 contact 📪</h3>
 <div align="center">
   
