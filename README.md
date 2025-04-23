@@ -60,16 +60,16 @@
 
 <h3 align="center">⚡ Careers ⚡</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/LG%20CNS%20(24.01.02%20~%2024.02.23)-lg?style=social&logo=lg" />&nbsp
+  <img src="https://img.shields.io/badge/%5BIntern%5D%20Cloud%20Architect%20(24.01.02%20~%2024.02.23)-lg?style=social&logo=lg&label=LG%20CNS" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/POSCO%20(24.07.22%20~%2024.08.21)-P?style=social&label=p" />&nbsp
+  <img src="https://img.shields.io/badge/%5BIntern%5D%20Process%20Automation%20Engineer%20(24.07.22%20~%2024.08.21)-posco?style=social&logo=Posco&label=POSCO" />&nbsp
 </div>
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Samsung%20Electronics%20(25.01.20%20~%20ing)-samsung?style=social&logo=samsung" />&nbsp
+  <img src="https://img.shields.io/badge/%5BRegular%5D%20Production%20Engineer%20(25.01.20%20~%20ing)-samsung?style=social&logo=Samsung&label=Samsung%20Electronics" />&nbsp
 </div>
 
 <br>
