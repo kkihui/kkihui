@@ -73,13 +73,13 @@
 <!-- 인턴 & 정규직 -->
 <h3 align="center">⚡ Careers ⚡</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/%5BIntern%5D%20Cloud%20Architect%20(24.01.02%20~%2024.02.23)-lg?style=social&logo=lg&label=LG%20CNS&link=https%3A%2F%2Fwww.lgcns.com%2F" />&nbsp
+  <a href="https://www.lgcns.com/"><img src="https://img.shields.io/badge/%5BIntern%5D%20Cloud%20Architect%20(24.01.02%20~%2024.02.23)-lg?style=social&logo=lg&label=LG%20CNS" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/%5BIntern%5D%20Process%20Automation%20Engineer%20(24.07.22%20~%2024.08.21)-posco?style=social&logo=Posco&label=POSCO" />&nbsp
+  <a href="https://www.posco.co.kr/"><img src="https://img.shields.io/badge/%5BIntern%5D%20Process%20Automation%20Engineer%20(24.07.22%20~%2024.08.21)-posco?style=social&logo=Posco&label=POSCO" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/%5BRegular%5D%20Manufacturing%20AI%20Solution%20Engineer%20(25.01.20%20~%20ing)-samsung?style=social&logo=Samsung&label=Samsung%20Electronics" />&nbsp
+  <a href="https://www.samsung.com/sec/"><img src="https://img.shields.io/badge/%5BRegular%5D%20Manufacturing%20AI%20Solution%20Engineer%20(25.01.20%20~%20ing)-samsung?style=social&logo=Samsung&label=Samsung%20Electronics" />&nbsp
 </div>
 
 <br>
@@ -88,8 +88,8 @@
 <h3 align="center">📫 contact 📪</h3>
 <div align="center">
   
-![Static Badge](https://img.shields.io/badge/seo__kkihui-passing?style=plastic&logo=instagram&logoColor=FFFFFF&labelColor=5C1374&color=5C1374)
-![Static Badge](https://img.shields.io/badge/cogns1118%40yonsei.ac.kr-passing?style=plastic&logo=gmail&logoColor=%23EA4335&labelColor=000000&color=000000)
+![Static Badge](https://img.shields.io/badge/seo__kkihui-passing?style=plastic&logo=instagram&logoColor=FFFFFF&labelColor=5C1374&color=5C1374&link=https%3A%2F%2Fwww.instagram.com%2Fseo_kkihui%2F)
+![Static Badge](https://img.shields.io/badge/cogns1118%40yonsei.ac.kr-passing?style=plastic&logo=gmail&logoColor=%23EA4335&labelColor=000000&color=000000&link=mailto%3Acogns1118%40yonsei.ac.kr)
 </div>
 
 
