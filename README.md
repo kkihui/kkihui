@@ -87,9 +87,8 @@
 <!-- 연락처 -->
 <h3 align="center">📫 contact 📪</h3>
 <div align="center">
-  
-![Static Badge](https://img.shields.io/badge/seo__kkihui-passing?style=plastic&logo=instagram&logoColor=FFFFFF&labelColor=5C1374&color=5C1374&link=https%3A%2F%2Fwww.instagram.com%2Fseo_kkihui%2F)
-![Static Badge](https://img.shields.io/badge/cogns1118%40yonsei.ac.kr-passing?style=plastic&logo=gmail&logoColor=%23EA4335&labelColor=000000&color=000000&link=mailto%3Acogns1118%40yonsei.ac.kr)
+<a href="https://www.instagram.com/seo_kkihui/"><img src="https://img.shields.io/badge/seo_kkihui-passing?style=plastic&logo=instagram&logoColor=white&labelColor=5C1374&color=5C1374&link=www.instagram.com%2FFseo_kkihui">
+<a href="mailto:cogns1118@yonsei.ac.kr"><img src="https://img.shields.io/badge/cogns1118%40yonsei.ac.kr-passing?style=plastic&logo=gmail&logoColor=EA4335&labelColor=000000&color=000000&link=mailto%3Acogns1118%40yonsei.ac.kr">
 </div>
 
 
@@ -99,4 +98,6 @@
 <!--
 **kkihui/kkihui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Static Badge](https://img.shields.io/badge/kihun1118%40lgcns.com-passing?style=plastic&logo=lg&logoColor=%23A50034&labelColor=FFFFFF&color=FFFFFF)
+![Static Badge](https://img.shields.io/badge/seo_kkihui-passing?style=plastic&logo=instagram&logoColor=white&labelColor=5C1374&color=5C1374&link=www.instagram.com%2FFseo_kkihui)
+![Static Badge](https://img.shields.io/badge/cogns1118%40yonsei.ac.kr-passing?style=plastic&logo=gmail&logoColor=%23EA4335&labelColor=000000&color=000000&link=mailto%3Acogns1118%40yonsei.ac.kr)
 -->
