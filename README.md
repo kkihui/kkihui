@@ -2,6 +2,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!-nl-kkihui%20github&fontSize=90)
+
 </div>
 
 <!-- ME7 -->
@@ -9,13 +10,15 @@
 
 <!-- 백준 프로필 -->
 <div align="center">
-
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cogns1118)](https://solved.ac/cogns1118/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=cogns1118&theme=cold)
+
 </div>
 
 <br>
 
+<!-- Tech Stack 정리 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <!-- Web 개발 언어-->
 <div align="center">
@@ -91,13 +94,12 @@
 <a href="mailto:cogns1118@yonsei.ac.kr"><img src="https://img.shields.io/badge/cogns1118%40yonsei.ac.kr-passing?style=plastic&logo=gmail&logoColor=EA4335&labelColor=000000&color=000000&link=mailto%3Acogns1118%40yonsei.ac.kr">
 </div>
 
-
-
-
+<br>
 
 <!--
 **kkihui/kkihui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Static Badge](https://img.shields.io/badge/kihun1118%40lgcns.com-passing?style=plastic&logo=lg&logoColor=%23A50034&labelColor=FFFFFF&color=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/seo_kkihui-passing?style=plastic&logo=instagram&logoColor=white&labelColor=5C1374&color=5C1374&link=www.instagram.com%2FFseo_kkihui)
 ![Static Badge](https://img.shields.io/badge/cogns1118%40yonsei.ac.kr-passing?style=plastic&logo=gmail&logoColor=%23EA4335&labelColor=000000&color=000000&link=mailto%3Acogns1118%40yonsei.ac.kr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkihui)](https://github.com/anuraghazra/github-readme-stats)
 -->
